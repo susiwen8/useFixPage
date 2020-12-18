@@ -1,0 +1,1 @@
+export function useFixPage(initialValue?: boolean): [boolean, React.Dispatch<React.SetStateAction<boolean>>];
